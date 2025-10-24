@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sidi Damilola
 
-<!--
-**sidi-damilola/sidi-damilola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** passionate about creating clean, responsive, and user-friendly websites.  
+I enjoy turning ideas into interactive experiences using **HTML**, **CSS**, and **JavaScript**.  
 
-Here are some ideas to get you started:
+🌱 **Currently exploring:** modern front-end practices and building real-world projects to sharpen my skills.  
+💡 **Interests:** Web accessibility, responsive design, and performance optimization.  
+🚀 **Goal:** To contribute to impactful projects and grow as a developer in a collaborative environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- HTML
+- CSS  
+- JavaScript   
+---
+
+### 📫 Connect With Me
+**LinkedIn:** [linkedin.com/in/sidi-damilola](https://www.linkedin.com/in/sidi-damilola)  
+- **Email:** sididamilola@gmail.com 
