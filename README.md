@@ -16,5 +16,5 @@ I enjoy turning ideas into interactive experiences using **HTML**, **CSS**, and 
 ---
 
 ### 📫 Connect With Me
-**LinkedIn:** [linkedin.com/in/sidi-damilola](https://www.linkedin.com/in/sidi-damilola)  
+**LinkedIn:** https://www.linkedin.com/in/sididamilola/  
 - **Email:** sididamilola@gmail.com 
